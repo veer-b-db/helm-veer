@@ -13,4 +13,4 @@ jobs:
         uses: docker/login-action@v2
         with:
           username:veerubind
-          password: dckr_pat_rgjU682kx4tjGwqg1MkFl-hDA-Y
+          password:dckr_pat_rgjU682kx4tjGwqg1MkFl-hDA-Y
